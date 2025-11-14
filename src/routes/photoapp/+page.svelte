@@ -8,7 +8,7 @@ let picture = "https://picsum.photos/id/93/367/267"
 
 
 <main>
-        <h1> Photoapp</h1>
+        <h1> Mina bilder</h1>
         <p> elias är fruzzy </p>
 
 </main>
