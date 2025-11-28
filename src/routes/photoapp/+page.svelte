@@ -45,7 +45,7 @@ h1{
         flex: 1;
         margin:10px;
         height: 100%;
-    }
+    }       
 
     .image-wrapper img{
         width: 100%;
