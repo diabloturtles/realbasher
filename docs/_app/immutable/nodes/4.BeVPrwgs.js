@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{X as i,_ as r}from"../chunks/CquiKiTH.js";var m=i('<main><div class="grid-container svelte-1o3u4k4"></div></main>');function e(o){var a=m();r(o,a)}export{e as component};

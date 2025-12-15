@@ -1,8 +1,5 @@
 
 
-import {users_store} from "$lib/user";
-let users = [];
-
 
 
 

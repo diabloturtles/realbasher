@@ -9,7 +9,10 @@
 </svelte:head>
 <nav> <a href="{base}/photoapp">Photo App</a>
  <a href="{base}/start">hem </a>
- <a href="{base}/register">fruzz </a></nav>
+ <a href="{base}/register">fruzz </a>
+ <a href="{base}/shoppinglist">crust </a>
+  <a href="{base}/Prov">prov </a></nav>
+ 
 {@render children?.()}
 
 <style>
