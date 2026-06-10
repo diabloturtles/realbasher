@@ -11,7 +11,13 @@
  <a href="{base}/start">hem </a>
  <a href="{base}/register">fruzz </a>
  <a href="{base}/shoppinglist">crust </a>
-  <a href="{base}/Prov">prov </a></nav>
+  <a href="{base}/Prov">prov </a>
+  <a href="{base}/egetproject">eget projektc </a>
+  <a href="{base}/Vaderapp">Vader app </a>
+
+  <a href="{base}/memory">memory </a>
+  <a href="{base}/chat">chat </a>
+  <a href="{base}/search">search </a></nav>
  
 {@render children?.()}
 
